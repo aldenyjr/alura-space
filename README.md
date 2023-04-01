@@ -19,7 +19,7 @@ Este projeto foi desenvolvido através do Curso React com JavaScript: lidando co
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
-# Layout ou Deploy da Aplicação :dash:
+# Layout e Deploy da Aplicação :dash:
 
 ![image](https://user-images.githubusercontent.com/114154072/229258633-7a223924-ea4d-4c89-9b30-4b4689872c71.png)
 
