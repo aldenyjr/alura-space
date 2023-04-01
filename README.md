@@ -64,4 +64,4 @@ npm start
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: Ano - Titulo do Projeto
+Copyright :copyright: 2023 - Alura Space
